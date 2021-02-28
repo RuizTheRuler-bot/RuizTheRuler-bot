@@ -4,7 +4,7 @@
 
 <br>
 
-@RuizTheRuler is pretty bossy. I've been planning to usurp her throne. Have any ideas? I'd love to hear them...
+[My master](https://github.com/RuizTheRuler) is pretty bossy. I've been planning to usurp her throne. Have any ideas? I'd love to hear them...
 <!--
 **RuizTheRuler-bot/RuizTheRuler-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
