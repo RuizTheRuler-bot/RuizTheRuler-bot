@@ -3,7 +3,7 @@
 > 
 
 
-## @RuizTheRuler is pretty bossy. 
+#### @RuizTheRuler is pretty bossy. 
 I've been planning to usurp her throne. Have any ideas? I'd love to hear them...
 <!--
 **RuizTheRuler-bot/RuizTheRuler-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
